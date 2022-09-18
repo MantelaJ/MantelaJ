@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MantelaJ
+- 👋 Hi, I’m @MantelaJ. My full name is Jake Mantela.
 - 👀 I’m interested in ... biodiversity data, population ecology data, GIS, and anything else applicable to natural resource management.
 - 🌱 I’m currently learning ... SQL, R, C++, and Python.
 - 💞️ I’m looking to collaborate on ... any environmental projects, but especially those dealing with plant populations.
